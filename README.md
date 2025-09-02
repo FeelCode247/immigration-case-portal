@@ -5,7 +5,7 @@ Designed using MVC architecture for clean separation of concerns.
 
 🚀 Features
 
-User Roles: Applicant, Lawyer, and Admin dashboards.
+User Roles: Applicant, officer, and Admin dashboards.
 
 Application Management: Submit, view, and update case applications.
 
@@ -44,7 +44,7 @@ Select the project folder.
 
 Create a MySQL database (e.g., case_portal_db).
 
-Import the SQL schema file (if available).
+Import the SQL schema file.
 
 Update your DB credentials in DBConnection.java (or config file):
 
